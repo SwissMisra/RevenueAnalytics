@@ -5,4 +5,6 @@ My goal was to determine the key variables that determine the earned revenue of 
 
 In this analysis, we find that ASP cannot reliably predict revenue performance, and that existing data may only indicate as much because the effects of increased prices are comingled with that of inflation. After adjusting for inflation, we see that sales volume, or total tickets sold, is the most significant variable to impact revenue at the performance level, followed by the number of matinee performances and the general popularity of the title.
 
-When we aggregate sales performance at the production level, we find that title is a much more significant predictor of tickets sold and, in turn, production revenue. Therefore, we can create 2 separate models: a linear regression to predict revenue at the performance level; and a logarithmic model to predict tickets sold and, in turn, production revenue.
+When we aggregate sales performance at the production level, we find that title is a much more significant predictor of tickets sold and, in turn, production revenue. Therefore, we can create 2 separate models: 
+<ul> a linear regression to predict revenue at the performance level;</ul>
+<ul> and a logarithmic model to predict tickets sold and, in turn, production revenue.</ul>
